@@ -9,8 +9,10 @@
 ## 🛠  Technologies and tools
 <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />&nbsp;<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=14BBFF" alt="Figma logo" title="Figma" height="25" />&nbsp;<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />&nbsp;<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />&nbsp;<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />&nbsp;
 
-
-### About Me
+<details>
+<summary>
+  ### About Me
+</summary>
 I'm a Software Engineer specializing in Flutter And Dart Mobile App development with over five years of experience. I'm comfortable working with both Front-end and Back-end technologies (Flutter, Dart, Javascript, Html, CSS, etc.) and Web Development skills (Php, Python, Django, ReactJs, NodeJs, etc.).  
   
 Not only programming, but I love to create UI Design Using Figma and to slice the UI Design to Flutter, but I also have the skill to use Photoshop, CorelDraw, and Adobe Illustration to help me to create UI Design Component.  
@@ -42,3 +44,4 @@ I also love to share my knowledge for FREE as a Speaker, Trainer Mentor & I teac
 - 2021 Speaker on Sharing Session Programmer Banyuwangi (Figma)  
 - 2021 Speaker on Sharing Session Programmer Banyuwangi (Slicing UI Design To Flutter)
 
+</details>
