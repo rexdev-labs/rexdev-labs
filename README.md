@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm a Software Engineer now focusing on Flutter And Dart Mobile App development <img src="https://raw.githubusercontent.com/rexdev-labs/rexdev-labs/master/wave.gif" width="30px">
 
 <!--
 **rexdev-labs/rexdev-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
