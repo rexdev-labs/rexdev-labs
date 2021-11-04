@@ -7,8 +7,7 @@
 - 🔓 Open To Work 
 
 ## 🛠  Technologies and tools
-<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />
-<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=14BBFF" alt="Flutter logo" title="Flutter" height="25" />
+<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" /><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=14BBFF" alt="Flutter logo" title="Flutter" height="25" />
 <img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />
 &nbsp;<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 &nbsp;
