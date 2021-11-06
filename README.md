@@ -7,7 +7,12 @@
 - 🔓 Open To Work 
 
 ## Find Me On
-<a href="https://www.youtube.com/channel/UCCrJZRN_IGhCilyUq0LXobA" target="_blank"><img src="https://img.shields.io/badge/YouTube%20|%20@PixeldevFactory-282C34?logo=YouTube&logoColor=F70000" alt="You Tube logo" title="YouTube" height="25" /> </a> <br><img src="https://img.shields.io/badge/Facebook %20|%20Rexsi_Dirtjump-282C34?logo=Facebook&logoColor=1374EA" alt="Facebook logo" title="Facebook" height="25" /> <br>
+<a href="https://www.youtube.com/channel/UCCrJZRN_IGhCilyUq0LXobA" target="_blank"><img src="https://img.shields.io/badge/YouTube%20|%20@PixeldevFactory-282C34?logo=YouTube&logoColor=F70000" alt="You Tube logo" title="YouTube" height="25" /> </a><br> <a href="https://www.facebook.com/rexsi.dirtjump/"> <img src="https://img.shields.io/badge/Facebook %20|%20Rexsi_Dirtjump-282C34?logo=Facebook&logoColor=1374EA" alt="Facebook logo" title="Facebook" height="25" /></a> <br><a href="https://www.instagram.com/rex.nobokis/"> <img src="https://img.shields.io/badge/instagram%20|%20 @Rex.Nobokis-282C34?logo=instagram&logoColor=instagram" alt="Instagram logo" title="Instagram" height="25" /></a> <br><a href="https://www.linkedin.com/in/rexsi-yudi-putra-38096b1b4/"> <img src="https://img.shields.io/badge/LinkedIn%20|%20 Rexsi%20Yudi%20Putra-282C34?logo=Linkedin&logoColor=0270AD" alt="LinkedIn logo" title="LinkedIn" height="25" /></a> <br><a href="https://www.linkedin.com/in/rexsi-yudi-putra-38096b1b4/"> <img src="https://img.shields.io/badge/Dribbble%20%7C%20%20Rexsi%20Yudi%20Putra-282C34?logo=Dribbble&logoColor=E34A85" alt="Dribbble logo" title="Dribbble" height="25" /></a> <br>
+
+
+
+
+
 
 
 ## 🛠  Technologies and tools
