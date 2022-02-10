@@ -1,6 +1,6 @@
 ## Hi I'am Rexsi Yudi Putra<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 🔭 I'm currently on **Pixel Dev Factory** 
-- 🌱 I'm currently focused on mobile development
+- 🌱 I'm currently focused on mobile development And ForntEnd Web Developer
 - 👨‍💻 I'm mostly use programming language **Dart** with framework **Flutter**
 - 💬 Ask me about **Flutter** and **UI&UXDesign** 
 - 💻 I'am Founder Komunitas Programmer Banyuwangi
